@@ -1,4 +1,14 @@
 ## ErikoX
-*A programmer*
-***
-What am I doing here.
+
+Hello, I am a programmer.
+
+
+
+
+
+
+
+
+
+
+bye
